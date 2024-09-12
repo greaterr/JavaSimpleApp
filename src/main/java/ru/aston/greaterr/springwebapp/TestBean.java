@@ -1,4 +1,4 @@
-package ru.aston.greaterr.springWebApp;
+package ru.aston.greaterr.springwebapp;
 
 public class TestBean {
     private String name;

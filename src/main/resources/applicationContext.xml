@@ -8,7 +8,7 @@
        http://www.springframework.org/schema/context/spring-context.xsd">
 
     <bean id="testBean"
-          class="ru.aston.greaterr.springWebApp.TestBean">
+          class="ru.aston.greaterr.springwebapp.TestBean">
         <constructor-arg value="Rainbow"/>
     </bean>
 </beans>
