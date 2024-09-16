@@ -9,7 +9,6 @@
     <packaging>war</packaging>
 
     <dependencies>
-        <!-- Добавляем зависимость для Servlet API -->
         <dependency>
             <groupId>jakarta.servlet</groupId>
             <artifactId>jakarta.servlet-api</artifactId>
